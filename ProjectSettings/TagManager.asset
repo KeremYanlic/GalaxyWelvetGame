@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerLaser
+  - BigMeteor
+  - SmallMeteor
+  - Earth
+  - PlayerMissile
+  - HunterEnemy
+  - Enemy
+  - EnemyMissile
+  - InvaderEnemy
+  - HunterEnemyLaser
+  - InvaderEnemyLaser
+  - TarretLaser
+  - TarretMissile
+  - Portal
+  - btn
+  - BlueArea
+  - YellowArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Laser
+  - Meteor
+  - Enemy
+  - HunterEnemyLaser
+  - InvaderEnemyLaser
+  - EnemyMissile
+  - Earth
+  - Minimap
+  - PlayerMissile
+  - Product
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Outline
+    uniqueID: 1604959441
+    locked: 0
+  - name: Popups
+    uniqueID: 1573541057
+    locked: 0
+  - name: VFX
+    uniqueID: 2571897453
+    locked: 0
